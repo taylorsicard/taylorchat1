@@ -1,7 +1,7 @@
 {
     "BOT": "Howdy!\nI’m Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada.",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Taylor so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Howdy friend!\nI'm Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada",
+    "WHO": "Taylor is the VP of Growth & Partnerships @ Rare.io but also runs many online stores such as: www.perlacoco.com and many others!",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "WHERE DO YOU LIVE": "I live in Ottawa, Canada but travel quite often. I go to California for work a lot and Europe for personal travel.",
     "CONNECT ME": "",
