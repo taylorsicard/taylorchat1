@@ -1,7 +1,7 @@
 'use strict';
 
 const _ = require('lodash');
-const Script = require('smooch-bot').Script;
+const Script = require('Taylor.Chat').Script;
 
 const scriptRules = require('./script.json');
 
@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('So you want to learn about Taylor.Chat? Just say HELLO to get started.')
                 .then(() => 'speak');
         }
     },
