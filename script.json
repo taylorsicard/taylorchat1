@@ -3,8 +3,8 @@
     "HELLO": "Howdy friend!\nI'm Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada",
     "WHO": "Taylor is the VP of Growth & Partnerships @ Rare.io but also runs many online stores such as: %[PerlaCoco](http://perlacoco.com) and many others!",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "SAY HELLO": "The best way to get in touch with Taylor is through %[Twitter](http://twitter.com/taylorsicard) or %[LinkedIn](https://ca.linkedin.com/in/taylorsicard)",
+    "SAY HELLO": "The best way to get in touch with Taylor is through: %[Twitter](http://twitter.com/taylorsicard) %[LinkedIn](https://ca.linkedin.com/in/taylorsicard)",
     "WHERE DO YOU LIVE": "I live in Ottawa, Canada but travel quite often. I go to California for work quite often and Europe for personal travel.",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, Taylor.Chat is back."
 }
