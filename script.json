@@ -1,9 +1,10 @@
 {
     "BOT": "Howdy!\nI’m Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada.",
-    "START": "Let's get started! You can ask me: Who, Where, Work to get started",
-    "HELLO": "Howdy friend!\nI'm Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada",
-    "WHO": "Taylor is the VP of Growth & Partnerships @ Rare.io but also creates online stores such as: %[PerlaCoco](http://perlacoco.com) %[Tvylor](http://Tvylor.com) %[Profile](http://taylorsicard.co) ",
+    "START": "Let's get started! You can ask me: Who, Where, Work to get started.",
+    "HELLO": "Howdy friend!\nI'm Taylor.Chat, a chatbot made by Taylor Sicard in Ottawa, Canada.",
+    "WHO": "Taylor is a 20-something year old who is passionate about ecommerce and emerging technology.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "WORK": "Taylor is the VP of Growth & Partnerships @ Rare.io but also creates online stores such as: %[PerlaCoco](http://perlacoco.com) %[Tvylor](http://Tvylor.com) %[Profile](http://taylorsicard.co) ",
     "WHERE": "Taylor currently lives in Ottawa, Canada",
     "SAY HELLO": "The best way to get in touch with Taylor is through: %[Twitter](http://twitter.com/taylorsicard) %[LinkedIn](https://ca.linkedin.com/in/taylorsicard)",
     "WHERE DO YOU LIVE": "I live in Ottawa, Canada but travel quite often. I go to California for work quite often and Europe for personal travel.",
